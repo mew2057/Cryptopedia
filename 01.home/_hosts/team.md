@@ -10,6 +10,17 @@ people:
           url: 'http://boyerb.com'
         - title: instagram
           url: 'https://www.instagram.com/donkey_hands/'
+    
+    - name: Sasquatch
+      pic: squatch.jpg
+      position: Cryptid-in-chief
+      social:
+        - title: home
+          url: "#"
+        - title: instagram
+          url: "https://www.instagram.com/cryptopediacast/"
+        - title: twitter
+          url: "https://twitter.com/CryptopediaCast"
 
     - name: John Dunham
       pic: john.jpg

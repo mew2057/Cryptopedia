@@ -1,9 +1,10 @@
 ---
 title: 'contact'
-cache_enable: false
+cache_enable: true
 
 form:
     name: contact-form
+    action: /home#contact
     fields:   
         - name: email
           label: Email
@@ -44,9 +45,14 @@ form:
     process:
         - email:
             from: "{{form.value.email}}"
-            to: "cryptopedia@gmail.com"
-            subject: "{{ form.value.subject }}"
+            to: 
+                - "{{form.value.email}}"
+                - "cryptopediacast@gmail.com"
+            subject: "{{ form.value.subject }} | {{ form.value.name }}"
             body: "{{ form.value.message }}"
+        - message: 'Thank you for your feedback!'
+        - display: thankyou
+
 ---
 
 ## CONTACT US
