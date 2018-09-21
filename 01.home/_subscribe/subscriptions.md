@@ -11,12 +11,9 @@ services:
       url: "#subscriptions"
     - icon: google
       text: "Google Play"
-      url: "#subscriptions"
-
-      
+      url: "#subscriptions"      
 ---
 
 
 ## Subscribe
 ### You know you want to
-
