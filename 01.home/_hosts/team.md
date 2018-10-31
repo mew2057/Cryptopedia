@@ -16,6 +16,9 @@ people:
             -
                 title: instagram
                 url: 'https://www.instagram.com/donkey_hands/'
+            -
+                title: twitter
+                url: 'https://twitter.com/CryptoBrandon'
     -
         name: Sasquatch
         pic: squatch.jpg
@@ -44,6 +47,9 @@ people:
             -
                 title: instagram
                 url: 'https://www.instagram.com/mew2057/'
+            -
+                title: twitter
+                url: 'https://twitter.com/jfdunham'
 description: 'Your hosts are here to entertain you and make each other''s job more difficult.'
 ---
 
