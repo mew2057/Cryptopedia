@@ -7,6 +7,7 @@ services:
         icon: rss
         text: Podbean
         url: 'http://cryptopediacast.podbean.com/'
+   
     -
         icon: apple
         text: 'Apple Podcasts'

@@ -1,5 +1,5 @@
 ---
-title: Agency
+title: Cryptopedia
 content:
     items: '@self.modular'
     order:
