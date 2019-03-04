@@ -15,10 +15,7 @@ links    :
         icon:  file-text
         text: 'CAST ReadTheDocs'
         url : 'http://cast.rtfd.io'
-    -  
-        icon:  github-alt
-        text: 'Source'
-        url : 'https://bitbucket.org/mew2057/skele_walk'
+
 thumb      : "thumb.png"
 ---
 

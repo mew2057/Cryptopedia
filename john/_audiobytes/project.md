@@ -8,7 +8,7 @@ plat       : 'HTML5 Canvas'
 links      : 
     -   icon : play
         text : Play
-        url  : "http://johndunhamgames.com/myGames/audiobytes/"
+        url  : "my-games/audiobytes/"
 thumb      : "thumb.png"
 ---
 

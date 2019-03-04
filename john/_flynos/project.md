@@ -8,7 +8,7 @@ plat       : 'HTML5 Canvas'
 links      : 
              -  icon: play
                 text : "Play"
-                url  : "other/FlynnOs/index.html"
+                url  : "other/FlynnOS/index.html"
 thumb      : "thumb.png"
 ---
 

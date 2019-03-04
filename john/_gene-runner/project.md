@@ -13,7 +13,7 @@ links      :
     -  
         icon:  file-text
         text: 'Algorithm'
-        url : 'other/dun-genetic-algorithm'
+        url : 'other/dun-genetic-algorithm.pdf'
     -  
         icon:  github-alt
         text: 'Source'
