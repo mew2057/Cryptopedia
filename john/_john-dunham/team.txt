@@ -1,0 +1,39 @@
+---
+title: Hosts
+menu: Team
+people:
+  
+    -
+        name: 'John Dunham'
+        pic: john.jpg
+        position: 'Squatch Squasher'
+        section: 'John'
+        social:
+            -
+                title: home
+                url: 'http://johndunhamgames.com'
+            -
+                title: envelope
+                url: 'mailto:john@cryptopediacast.com'
+            -
+                title: instagram
+                url: 'https://www.instagram.com/mew2057/'
+            -
+                title: twitter
+                url: 'https://twitter.com/jfdunham'
+#description: 'Your hosts are here to entertain you and make each other''s job more difficult.'
+
+
+---
+
+## Your Hosts
+
+
+[section name="John"]
+A Software Engineer with a passion for user experience and producing quality, maintainable products. When I become 
+interested in a subject I throw myself into it head first until I am able to produce a product I am happy with. 
+
+I have experience working in professional environments and working with teams on a multitude of software projects in roles 
+ranging from Software Engineer to System Administrator
+[/section]
+
