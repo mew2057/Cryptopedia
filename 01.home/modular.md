@@ -46,12 +46,3 @@ facebookimg: /home/_hosts/squatch.jpg
 onpage_menu: true
 ---
 
-<script>
-    var url = document.URL;
-    var newURL = url.replace("johndunhamgames.com","cryptopediacast.com/john/")
-
-    
-
-
-
-</script>
